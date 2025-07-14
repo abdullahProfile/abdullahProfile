@@ -23,10 +23,6 @@
   </a>
 </p>
 
-<h3 align="left">👀 Profile Visitors:</h3>
-<p align="left">
-  <img src="https://profile-counter.glitch.me/abdullahProfile/count.svg" alt="Visitor Counter" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahProfile&show_icons=true&locale=en&layout=compact" alt="abdullahProfile" />
